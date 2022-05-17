@@ -14,8 +14,7 @@ up to date Python release, Selenium Chrome driver (prefferable).
 
 
 
-Runable:
-
+Runable files:
 Root Folder ---> Tests ----> test_e_ccomerce.py
 Root Folder ---> Tests ----> test_HomePage.py
 Root Folder ---> Excel_Data ----> excelDemo.py
