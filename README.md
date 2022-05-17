@@ -10,11 +10,13 @@ Also an extra feature of using Excel file - read and write on/from it and use it
 
 
 Requirments to run:
+
 up to date Python release, Selenium Chrome driver (prefferable).
 
 
 
 Runable files:
+
 Root Folder ---> Tests ----> test_e_ccomerce.py
 Root Folder ---> Tests ----> test_HomePage.py
 Root Folder ---> Excel_Data ----> excelDemo.py
